@@ -35,14 +35,14 @@ These Subprocessors handle secure payment processing for our Services.
 | [Stripe, Inc.](https://stripe.com)          | Payment processing | United States of America | United States of America |
 | [Numeral Two, Inc](https://www.numeral.com) | Global tax monitor | United States of America | United States of America |
 
-## Analytics & CRM
+## Analytics
 
-These Subprocessors provide analytics and customer relationship management tools to track subscriptions and user behavior.
+These Subprocessors provide analytics tools to track subscriptions and user behavior.
 
-| NAME                                                 | PURPOSE                        | PROVIDER LOCATION | PROCESSING LOCATION      |
-|------------------------------------------------------|--------------------------------|-------------------|--------------------------|
-| [ChartMogul GmbH & Co. KG](https://chartmogul.com)   | Subscription analytics and CRM | Germany           | Ireland                  |
-| [Simple Analytics B.V.](https://simpleanalytics.com) | Website Analytics              | The Netherlands   | The Netherlands          |
+| NAME                                                 | PURPOSE                | PROVIDER LOCATION        | PROCESSING LOCATION      |
+|------------------------------------------------------|------------------------|--------------------------|--------------------------|
+| [ChartMogul GmbH & Co. KG](https://chartmogul.com)   | Subscription analytics | Germany                  | Ireland                  |
+| [Simple Analytics B.V.](https://simpleanalytics.com) | Website Analytics      | The Netherlands          | The Netherlands          |
 
 ## Communication
 
@@ -61,5 +61,6 @@ These Subprocessors provide additional Services that support various aspects of 
 | NAME                                                 | PURPOSE          | PROVIDER LOCATION        | PROCESSING LOCATION      |
 |------------------------------------------------------|------------------|--------------------------|--------------------------|
 | [Friendly Captcha GmbH](https://friendlycaptcha.com) | Abuse prevention | Germany                  | Worldwide                |
+| [Attio Ltd.](https://attio.com)                      | CRM              | United Kingdom           | United States of America |
 
 If you have questions or concerns, we'd be happy to help. Please contact us at [policies@actuallyreliable.com](mailto:policies@actuallyreliable.com).
