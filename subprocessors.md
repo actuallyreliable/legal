@@ -60,7 +60,6 @@ These Subprocessors provide additional Services that support various aspects of 
 
 | NAME                                                 | PURPOSE          | PROVIDER LOCATION        | PROCESSING LOCATION      |
 |------------------------------------------------------|------------------|--------------------------|--------------------------|
-| [Doist Inc.](https://todoist.com)                    | Project planning | United States of America | United States of America |
 | [Friendly Captcha GmbH](https://friendlycaptcha.com) | Abuse prevention | Germany                  | Worldwide                |
 
 If you have questions or concerns, we'd be happy to help. Please contact us at [policies@actuallyreliable.com](mailto:policies@actuallyreliable.com).
