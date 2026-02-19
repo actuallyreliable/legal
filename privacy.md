@@ -38,7 +38,7 @@ California residents should also review the [California Resident Notice at Colle
 
 We collect only what is necessary. Here is what that looks like in practice:
 
-**Age eligibility.** Our Services are not intended for users under 13 years of age (or under 16 in the European Union). We do not knowingly collect personal information from anyone below these thresholds. If you believe we may have inadvertently collected data from a minor, please contact us immediately.
+**Age eligibility.** Our Services are not intended for users under 18 years of age. We do not knowingly collect personal information from anyone below these thresholds. If you believe we may have inadvertently collected data from a minor, please contact us immediately.
 
 ### Identity and access
 
@@ -157,7 +157,7 @@ Full details on our security practices — including encryption standards, infra
 
 We retain your data for as long as your Account is active. Unless you have configured auto-delete or applicable law requires earlier removal, we do not automatically purge trashed content.
 
-When an Account is cancelled or deleted, your content becomes immediately inaccessible and is permanently deleted from our active systems within 30 days and from our backup systems within 60 days. This applies to both voluntary cancellations and system-initiated Account closures. Billing records may be retained for up to 7 years as required by law. IP address and security logs are kept for the duration of your Account and deleted within 30 days of closure.
+When an Account is cancelled or deleted, your content becomes immediately inaccessible and is permanently deleted from our active systems within 60 days and from our backup systems within 60 days. This applies to both voluntary cancellations and system-initiated Account closures. Billing records may be retained for up to 7 years as required by law. IP address and security logs are kept for the duration of your Account and deleted within 60 days of closure.
 
 ---
 

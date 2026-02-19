@@ -57,7 +57,7 @@ We will not provide your data to law enforcement without a valid court order. We
 
 ### Data Deletion
 
-Your content becomes inaccessible the moment your Account is cancelled. All content is permanently deleted from our active systems and logs within 30 days of cancellation, and from off-site backups within 60 days of cancellation. Once permanently deleted, this data cannot be recovered.
+Your content becomes inaccessible the moment your Account is cancelled. All content is permanently deleted from our active systems and logs within 60 days of cancellation, and from off-site backups within 60 days of cancellation. Once permanently deleted, this data cannot be recovered.
 
 For more information, see our Privacy Policy at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy).
 
@@ -83,7 +83,7 @@ All payment card transactions are processed using the same level of encryption e
 
 ## Incident Management and Disaster Recovery
 
-We conduct regular disaster recovery drills that simulate a range of failure and attack scenarios. All databases are backed up regularly, and file backups are created automatically upon upload. Backup integrity is tested on a routine basis. Off-site backups are retained for a maximum of 30 days. Our Operations and Security teams maintain documented procedures for incident response. In the event of an incident, we will contact your Account Owner within 72 hours and remain engaged with you throughout the resolution process.
+We conduct regular disaster recovery drills that simulate a range of failure and attack scenarios. All databases are backed up regularly, and file backups are created automatically upon upload. Backup integrity is tested on a routine basis. Off-site backups are retained for a maximum of 60 days. Our Operations and Security teams maintain documented procedures for incident response. In the event of an incident, we will contact your Account Owner within 72 hours and remain engaged with you throughout the resolution process.
 
 ---
 
