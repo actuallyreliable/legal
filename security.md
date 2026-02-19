@@ -57,7 +57,7 @@ We will not provide your data to law enforcement without a valid court order. We
 
 ### Data Deletion
 
-Your content becomes inaccessible the moment your Account is cancelled. All content is permanently deleted from our active systems and logs within 60 days of cancellation, and from off-site backups within 60 days of cancellation. Once permanently deleted, this data cannot be recovered.
+Your content becomes inaccessible the moment your Account is cancelled. All content is permanently deleted from our systems within 60 days. Once permanently deleted, this data cannot be recovered.
 
 For more information, see our Privacy Policy at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy).
 
