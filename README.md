@@ -48,11 +48,11 @@ You're free to use, adapt, and share these policies in your own organization und
 
 A brief attribution for policies you've based on ours:
 
-> Adapted from [Actually Reliable open-source policies](https://github.com/actuallyreliable/policies) / CC BY 4.0
+> Adapted from [Actually Reliable open-source policies](https://github.com/actuallyreliable/legal) / CC BY 4.0
 
 If you re-share your adapted policies under a CC license:
 
-> MyProject policies are open source, licensed under CC BY 4.0. Adapted from [Actually Reliable open-source policies](https://github.com/actuallyreliable/policies) / CC BY 4.0.
+> MyProject policies are open source, licensed under CC BY 4.0. Adapted from [Actually Reliable open-source policies](https://github.com/actuallyreliable/legal) / CC BY 4.0.
 
 ### Contributions Welcome
 
