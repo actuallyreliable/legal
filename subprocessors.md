@@ -63,4 +63,4 @@ These Subprocessors provide additional Services that support various aspects of 
 | [Friendly Captcha GmbH](https://friendlycaptcha.com) | Abuse prevention                 | Germany                  | Worldwide                |
 | [Attio Ltd.](https://attio.com)                      | Customer Relationship Management | United Kingdom           | United States of America |
 
-If you have questions or concerns, we'd be happy to help. Please contact us at [policies@actuallyreliable.com](mailto:policies@actuallyreliable.com).
+If you have questions or concerns, we'd be happy to help. Please contact us at [privacy@actuallyreliable.com](mailto:privacy@actuallyreliable.com).
