@@ -28,12 +28,7 @@ This repository is dedicated to the public domain under the **CC0-1.0 license**.
 
 ## Contact
 
-| Topic | Email |
-|---|---|
-| Support | support@actuallyreliable.com |
-| Billing | billing@actuallyreliable.com |
-| Privacy | privacy@actuallyreliable.com |
-| Legal | legal@actuallyreliable.com |
+For all inquiries including support, billing, privacy, and legal matters, please [visit our support page](https://actuallyreliable.com/support).
 
 ## Policy Updates
 

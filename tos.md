@@ -56,7 +56,7 @@ You may not use our Services in any way that degrades, disrupts, or interferes w
 
 3. All fees are stated exclusive of applicable taxes, levies, and duties. Where legally required, we will collect and remit applicable taxes on your behalf. You remain responsible for any taxes we are not legally required to collect. Prices shown on our product websites do not include sales tax or VAT. We will update this provision as relevant regulations change.
 
-   Organizations claiming tax-exempt status must provide supporting documentation to our [Support team](mailto:support@actuallyreliable.com):
+   Organizations claiming tax-exempt status must provide supporting documentation by [contacting our billing team](https://actuallyreliable.com/support):
    - **U.S. organizations:** State-level tax exemption documentation (a federal IRS exemption letter may not be sufficient, as individual states vary in their recognition of federal exemptions)
    - **Non-U.S. organizations:** Official exemption documentation issued by the relevant authority in your jurisdiction
 
@@ -86,9 +86,9 @@ These refund commitments are voluntary commercial terms extended as a matter of 
 
 Customers should stay because they want to, not because cancellation is difficult. Account Owners may cancel their subscription at any time through [Account & Billing](https://account.actuallyreliable.com/billing).
 
-Cancellation is the sole responsibility of the Account Owner. We cannot process cancellations requested by anyone other than the Account Owner. If you are unsure who the Account Owner is, contact our [Support team](mailto:support@actuallyreliable.com) and we will reach out to the registered owner on file.
+Cancellation is the sole responsibility of the Account Owner. We cannot process cancellations requested by anyone other than the Account Owner. If you are unsure who the Account Owner is, [contact our support team](https://actuallyreliable.com/support) and we will reach out to the registered owner on file.
 
-Cancellation requests submitted by email or phone are not automatically effective. If you need assistance, our [Support team](mailto:support@actuallyreliable.com) can guide you through the process.
+Cancellation requests submitted by email or phone are not automatically effective. If you need assistance, our [support team](https://actuallyreliable.com/support) can guide you through the process.
 
 ### What Happens When You Cancel
 
@@ -175,7 +175,7 @@ All content submitted to our Services must comply with applicable U.S. copyright
    - A statement that you have a good faith belief the use is not authorized by the copyright owner, its agent, or the law
    - A statement, made under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner
 
-   Submit notices to: [copyright-report@actuallyreliable.com](mailto:copyright-report@actuallyreliable.com)
+   Submit notices to our [copyright team](https://actuallyreliable.com/support).
 
    **Counter-Notifications.** If you believe content was removed from our Services in error, you may submit a DMCA counter-notification including:
 
@@ -186,13 +186,13 @@ All content submitted to our Services must comply with applicable U.S. copyright
    - A statement, made under penalty of perjury, that you have a good faith belief the material was removed by mistake or misidentification
    - A statement that you consent to the jurisdiction of the federal or state courts in Ohio
 
-   Submit counter-notices to: [copyright-report@actuallyreliable.com](mailto:copyright-report@actuallyreliable.com)
+   Submit counter-notices to our [copyright team](https://actuallyreliable.com/support).
 
 2. By submitting content to our Services, you grant the Company a limited license to use that content solely for the purpose of providing the Services to you. We assert no ownership claim over your materials. Everything you submit remains yours.
 
 3. We do not review content before it is posted, but we reserve the right — without obligation — to remove or refuse any content available through our Services at our sole discretion.
 
-4. The Company and its licensors hold all rights, title, and interest in the Services, including all intellectual property rights. Your use of the Services grants you no ownership interest in them. Reproducing, copying, or reusing any portion of the HTML, CSS, JavaScript, or visual design of our Services requires our express written permission. Use of Company or product logos for promotional purposes likewise requires prior written authorization — please [contact us](mailto:support@actuallyreliable.com) to request it. We may revoke any granted permissions if these Terms are violated.
+4. The Company and its licensors hold all rights, title, and interest in the Services, including all intellectual property rights. Your use of the Services grants you no ownership interest in them. Reproducing, copying, or reusing any portion of the HTML, CSS, JavaScript, or visual design of our Services requires our express written permission. Use of Company or product logos for promotional purposes likewise requires prior written authorization — please [contact our support team](https://actuallyreliable.com/support) to request it. We may revoke any granted permissions if these Terms are violated.
 
 5. You agree not to reproduce, copy, resell, or otherwise exploit any portion of the Services — including access to or use of the Services — without our express written consent.
 
@@ -235,7 +235,7 @@ The procedures described in this section apply independently of any other notice
 
 ### Informal Resolution
 
-We prefer to resolve disputes without formal proceedings. If you have a concern, please reach out to our [Support team](mailto:support@actuallyreliable.com) first. We will make a genuine effort to address your issue promptly and fairly.
+We prefer to resolve disputes without formal proceedings. If you have a concern, please [contact our support team](https://actuallyreliable.com/support) first. We will make a genuine effort to address your issue promptly and fairly.
 
 ### Binding Arbitration
 
@@ -255,12 +255,6 @@ Each party is responsible for its own legal costs and attorneys' fees in any arb
 
 ---
 
-If you have any questions about these Terms, please [contact our Support team](mailto:support@actuallyreliable.com).
-
-**Contact Information**
-
-- **General support:** [support@actuallyreliable.com](mailto:support@actuallyreliable.com)
-- **Privacy matters:** [privacy@actuallyreliable.com](mailto:privacy@actuallyreliable.com)
-- **Copyright reports:** [copyright-report@actuallyreliable.com](mailto:copyright-report@actuallyreliable.com)
+If you have any questions about these Terms, please [contact our legal team](https://actuallyreliable.com/support).
 
 Thank you for using Actually Reliable LLC's Services.

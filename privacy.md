@@ -211,7 +211,7 @@ We may revise this policy from time to time to reflect changes in our practices 
 
 Disputes arising from this Privacy Policy or our data practices are subject to the Dispute Resolution provisions in our [Terms of Service](https://actuallyreliable.com/legal/tos).
 
-Questions, concerns, or requests regarding this policy or your personal data can be sent to [privacy@actuallyreliable.com](mailto:privacy@actuallyreliable.com).
+Questions, concerns, or requests regarding this policy or your personal data can be submitted by [contacting our privacy team](https://actuallyreliable.com/support).
 
 ## Survival
 

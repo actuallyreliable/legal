@@ -101,7 +101,7 @@ Actually Reliable shall, to the extent legally permitted, promptly notify Custom
 
 4.3. **Limitation of Access.** Access to Personal Data is restricted to personnel whose roles require it for the purpose of delivering the Services under the Agreement.
 
-4.4. **Questions.** For questions about this DPA or any privacy-related matter, please contact us at [dpa@actuallyreliable.com](mailto:dpa@actuallyreliable.com).
+4.4. **Questions.** For questions about this DPA or any privacy-related matter, please [contact our privacy team](https://actuallyreliable.com/support).
 
 ---
 
@@ -199,7 +199,7 @@ To the extent permitted under applicable Data Protection Laws and Regulations, e
 
 ### 12. DPA EXECUTION
 
-This DPA is incorporated into and forms part of the Agreement by reference. By entering into the Agreement, Customer agrees to the terms of this DPA. A separately executed DPA is available upon request by contacting [dpa@actuallyreliable.com](mailto:dpa@actuallyreliable.com).
+This DPA is incorporated into and forms part of the Agreement by reference. By entering into the Agreement, Customer agrees to the terms of this DPA. A separately executed DPA is available upon request by [contacting our privacy team](https://actuallyreliable.com/support).
 
 ---
 
@@ -229,7 +229,7 @@ Name: Actually Reliable LLC
 
 Address: 6545 Market Ave. North, Suite 100, North Canton, Ohio 44721, USA
 
-Contact person's name, position and contact details: CEO, [dpa@actuallyreliable.com](mailto:dpa@actuallyreliable.com)
+Contact person's name, position and contact details: CEO, [contact our privacy team](https://actuallyreliable.com/support)
 
 Activities relevant to the data transferred under these Clauses: Actually Reliable is a cloud-based software-as-a-service provider of email, help desk, and DNS software which Processes Personal Data upon the instruction of the data exporter in accordance with the terms of the agreement between the data exporter and Actually Reliable.
 
