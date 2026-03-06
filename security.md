@@ -103,13 +103,13 @@ Security is an area where outside perspective matters. If you have spotted somet
 
 ### Reporting Security Problems
 
-**Experiencing an active account attack** — unauthorized login attempts, suspicious activity, or similar — email us immediately at [security@actuallyreliable.com](mailto:security@actuallyreliable.com). We treat these with urgency and typically respond within a few hours to help you address the threat.
+**Experiencing an active account attack** — unauthorized login attempts, suspicious activity, or similar — [contact our security team immediately](https://actuallyreliable.com/support). We treat these with urgency and typically respond within a few hours to help you address the threat.
 
-**Discovered a security vulnerability?** Send your report to [security@actuallyreliable.com](mailto:security@actuallyreliable.com). Please include a detailed description of the issue, steps to reproduce it, and your assessment of its potential impact. We will acknowledge receipt within 72 hours.
+**Discovered a security vulnerability?** [Contact our security team](https://actuallyreliable.com/support). Please include a detailed description of the issue, steps to reproduce it, and your assessment of its potential impact. We will acknowledge receipt within 72 hours.
 
-**Other urgent or sensitive security matters** relating to our products or your Account should also be directed to [security@actuallyreliable.com](mailto:security@actuallyreliable.com).
+**Other urgent or sensitive security matters** relating to our products or your Account should also be directed to our [security team](https://actuallyreliable.com/support).
 
-**Non-urgent questions or general inquiries** that are not security-sensitive can be submitted through our [support channel](mailto:support@actuallyreliable.com).
+**Non-urgent questions or general inquiries** that are not security-sensitive can be submitted by [contacting our support team](https://actuallyreliable.com/support).
 
 ### How We Handle Vulnerability Reports
 
@@ -128,4 +128,4 @@ Finding and disclosing security vulnerabilities responsibly takes real skill and
 
 ### Other Questions
 
-For security questions not covered above, [contact our support team](mailto:support@actuallyreliable.com).
+For security questions not covered above, [contact our security team](https://actuallyreliable.com/support).
