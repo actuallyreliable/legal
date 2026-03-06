@@ -37,7 +37,7 @@ Payment processing is handled by Stripe, which maintains PCI compliance on our b
 
 ## Data Protection and Privacy
 
-Our full Privacy Policy is available at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy). The following summarizes our most important data protection practices.
+Our full Privacy Policy is available at [actuallyreliable.com/legal/privacy](https://www.actuallyreliable.com/legal/privacy). The following summarizes our most important data protection practices.
 
 ### Data Location
 
@@ -59,7 +59,7 @@ We will not provide your data to law enforcement without a valid court order. We
 
 Your content becomes inaccessible the moment your Account is cancelled. All content is permanently deleted from our systems within 60 days. Once permanently deleted, this data cannot be recovered.
 
-For more information, see our Privacy Policy at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy).
+For more information, see our Privacy Policy at [actuallyreliable.com/legal/privacy](https://www.actuallyreliable.com/legal/privacy).
 
 ---
 
@@ -103,13 +103,13 @@ Security is an area where outside perspective matters. If you have spotted somet
 
 ### Reporting Security Problems
 
-**Experiencing an active account attack** — unauthorized login attempts, suspicious activity, or similar — [contact our security team immediately](https://actuallyreliable.com/support). We treat these with urgency and typically respond within a few hours to help you address the threat.
+**Experiencing an active account attack** — unauthorized login attempts, suspicious activity, or similar — [contact our security team immediately](https://www.actuallyreliable.com/support). We treat these with urgency and typically respond within a few hours to help you address the threat.
 
-**Discovered a security vulnerability?** [Contact our security team](https://actuallyreliable.com/support). Please include a detailed description of the issue, steps to reproduce it, and your assessment of its potential impact. We will acknowledge receipt within 72 hours.
+**Discovered a security vulnerability?** [Contact our security team](https://www.actuallyreliable.com/support). Please include a detailed description of the issue, steps to reproduce it, and your assessment of its potential impact. We will acknowledge receipt within 72 hours.
 
-**Other urgent or sensitive security matters** relating to our products or your Account should also be directed to our [security team](https://actuallyreliable.com/support).
+**Other urgent or sensitive security matters** relating to our products or your Account should also be directed to our [security team](https://www.actuallyreliable.com/support).
 
-**Non-urgent questions or general inquiries** that are not security-sensitive can be submitted by [contacting our support team](https://actuallyreliable.com/support).
+**Non-urgent questions or general inquiries** that are not security-sensitive can be submitted by [contacting our support team](https://www.actuallyreliable.com/support).
 
 ### How We Handle Vulnerability Reports
 
@@ -128,4 +128,4 @@ Finding and disclosing security vulnerabilities responsibly takes real skill and
 
 ### Other Questions
 
-For security questions not covered above, [contact our security team](https://actuallyreliable.com/support).
+For security questions not covered above, [contact our security team](https://www.actuallyreliable.com/support).
