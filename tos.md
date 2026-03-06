@@ -137,7 +137,7 @@ If Actually Reliable LLC or any of our products is acquired by or spun off into 
 
 ## Uptime, Security, and Privacy
 
-1. Your use of our Services is at your own risk. We provide the Services on an "as is" and "as available" basis. Although we work hard to maintain high availability, we do not guarantee uninterrupted access and reserve the right to take Services offline for maintenance or security work, with reasonable advance notice where possible. We do not offer formal service-level agreements, though we take uptime seriously. Current status is always available at [status.actuallyreliable.com](https://status.actuallyreliable.com).
+1. Your use of our Services is at your own risk. We provide the Services on an "as is" and "as available" basis. Although we work hard to maintain high availability, we do not guarantee uninterrupted access and reserve the right to take Services offline for maintenance or security work, with reasonable advance notice where possible. We do not offer formal service-level agreements, though we take uptime seriously. Current status is always available at [actuallyreliable.com/status](https://actuallyreliable.com/status).
 
    Nothing in our marketing materials or on our product websites constitutes a guarantee of uptime or service availability.
 
