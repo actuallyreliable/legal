@@ -1,6 +1,6 @@
 # Actually Reliable Legal Policies
 
-Canonical source for all [Actually Reliable](https://actuallyreliable.com) legal policies, published at [actuallyreliable.com/legal](https://actuallyreliable.com/legal) and applicable to all products and services.
+Canonical source for all [Actually Reliable](https://www.actuallyreliable.com) legal policies, published at [actuallyreliable.com/legal](https://www.actuallyreliable.com/legal) and applicable to all products and services.
 
 ## About Actually Reliable
 
@@ -28,7 +28,7 @@ This repository is dedicated to the public domain under the **CC0-1.0 license**.
 
 ## Contact
 
-For all inquiries including support, billing, privacy, and legal matters, please [visit our support page](https://actuallyreliable.com/support).
+For all inquiries including support, billing, privacy, and legal matters, please [visit our support page](https://www.actuallyreliable.com/support).
 
 ## Policy Updates
 

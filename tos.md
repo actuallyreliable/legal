@@ -56,7 +56,7 @@ You may not use our Services in any way that degrades, disrupts, or interferes w
 
 3. All fees are stated exclusive of applicable taxes, levies, and duties. Where legally required, we will collect and remit applicable taxes on your behalf. You remain responsible for any taxes we are not legally required to collect. Prices shown on our product websites do not include sales tax or VAT. We will update this provision as relevant regulations change.
 
-   Organizations claiming tax-exempt status must provide supporting documentation by [contacting our billing team](https://actuallyreliable.com/support):
+   Organizations claiming tax-exempt status must provide supporting documentation by [contacting our billing team](https://www.actuallyreliable.com/support):
    - **U.S. organizations:** State-level tax exemption documentation (a federal IRS exemption letter may not be sufficient, as individual states vary in their recognition of federal exemptions)
    - **Non-U.S. organizations:** Official exemption documentation issued by the relevant authority in your jurisdiction
 
@@ -86,15 +86,15 @@ These refund commitments are voluntary commercial terms extended as a matter of 
 
 Customers should stay because they want to, not because cancellation is difficult. Account Owners may cancel their subscription at any time through [Account & Billing](https://account.actuallyreliable.com/billing).
 
-Cancellation is the sole responsibility of the Account Owner. We cannot process cancellations requested by anyone other than the Account Owner. If you are unsure who the Account Owner is, [contact our support team](https://actuallyreliable.com/support) and we will reach out to the registered owner on file.
+Cancellation is the sole responsibility of the Account Owner. We cannot process cancellations requested by anyone other than the Account Owner. If you are unsure who the Account Owner is, [contact our support team](https://www.actuallyreliable.com/support) and we will reach out to the registered owner on file.
 
-Cancellation requests submitted by email or phone are not automatically effective. If you need assistance, our [support team](https://actuallyreliable.com/support) can guide you through the process.
+Cancellation requests submitted by email or phone are not automatically effective. If you need assistance, our [support team](https://www.actuallyreliable.com/support) can guide you through the process.
 
 ### What Happens When You Cancel
 
 - **Immediate effect:** Cancellation takes effect at the time it is submitted. You will not be billed again. Unused time remaining in the current billing period is not automatically refunded. See our [Refund Policy](#refund-policy) for eligibility.
 
-- **Data deletion:** Your content becomes inaccessible immediately upon cancellation and will be permanently deleted in accordance with our [Data Retention](#data-retention) policy. While backups are maintained for disaster recovery purposes, we make no guarantee about the integrity or recoverability of any specific backup. Data recovery services are not available once content has been permanently deleted. If you wish to export your data before canceling, see our [data export instructions](https://actuallyreliable.com/support/article/export-my-data).
+- **Data deletion:** Your content becomes inaccessible immediately upon cancellation and will be permanently deleted in accordance with our [Data Retention](#data-retention) policy. While backups are maintained for disaster recovery purposes, we make no guarantee about the integrity or recoverability of any specific backup. Data recovery services are not available once content has been permanently deleted. If you wish to export your data before canceling, see our [data export instructions](https://www.actuallyreliable.com/support/article/export-my-data).
 
 ### Company-Initiated Cancellations
 
@@ -110,7 +110,7 @@ We reserve the right to suspend or permanently terminate any account, and to ref
 
 We also reserve the right to decline to provide Services to any person or entity, for any reason, at any time.
 
-**Notice Before Termination.** For terminations that are not related to abuse, policy violations, or illegal conduct, we will provide at least 30 days advance notice to the email address on record. During this period, you may export your data using our [data export instructions](https://actuallyreliable.com/support/article/export-my-data).
+**Notice Before Termination.** For terminations that are not related to abuse, policy violations, or illegal conduct, we will provide at least 30 days advance notice to the email address on record. During this period, you may export your data using our [data export instructions](https://www.actuallyreliable.com/support/article/export-my-data).
 
 ## Modifications to the Service and Prices
 
@@ -137,15 +137,15 @@ If Actually Reliable LLC or any of our products is acquired by or spun off into 
 
 ## Uptime, Security, and Privacy
 
-1. Your use of our Services is at your own risk. We provide the Services on an "as is" and "as available" basis. Although we work hard to maintain high availability, we do not guarantee uninterrupted access and reserve the right to take Services offline for maintenance or security work, with reasonable advance notice where possible. We do not offer formal service-level agreements, though we take uptime seriously. Current status is always available at [actuallyreliable.com/status](https://actuallyreliable.com/status).
+1. Your use of our Services is at your own risk. We provide the Services on an "as is" and "as available" basis. Although we work hard to maintain high availability, we do not guarantee uninterrupted access and reserve the right to take Services offline for maintenance or security work, with reasonable advance notice where possible. We do not offer formal service-level agreements, though we take uptime seriously. Current status is always available at [actuallyreliable.com/status](https://www.actuallyreliable.com/status).
 
    Nothing in our marketing materials or on our product websites constitutes a guarantee of uptime or service availability.
 
 2. We reserve the right to temporarily restrict your Account if your usage materially exceeds the average usage of other customers. We will contact the Account Owner before taking action except in situations where usage levels are actively impairing the experience of other customers, in which case we may act without prior notice.
 
-3. We employ a broad range of technical and organizational measures to protect your data. For full details on our security practices, encryption standards, backup procedures, and infrastructure, see our [Security Overview](https://actuallyreliable.com/legal/security).
+3. We employ a broad range of technical and organizational measures to protect your data. For full details on our security practices, encryption standards, backup procedures, and infrastructure, see our [Security Overview](https://www.actuallyreliable.com/legal/security).
 
-4. You agree that Actually Reliable LLC may process your data as described in our [Privacy Policy](https://actuallyreliable.com/legal/privacy), and for no other purpose.
+4. You agree that Actually Reliable LLC may process your data as described in our [Privacy Policy](https://www.actuallyreliable.com/legal/privacy), and for no other purpose.
 
 ### When we access your data
 
@@ -156,11 +156,11 @@ There are limited circumstances under which our staff may access your data:
 - **To protect Actually Reliable LLC and its customers.** We review logs and metadata as part of ongoing security monitoring. Where necessary, we may access Accounts in connection with investigating a reported abuse incident.
 - **Where required by law.** As a U.S.-based company with infrastructure located in the United States, we disclose or preserve customer data only when compelled by a valid court order from a U.S. governmental authority, or in limited circumstances involving emergency requests under the Stored Communications Act. When non-U.S. authorities seek our cooperation, our default position is to decline, unless the request has been routed through a recognized mutual legal assistance treaty or equivalent mechanism approved by the U.S. government. In the event of a tax audit, we share only the minimum billing information necessary to complete the audit.
 
-5. We rely on third-party vendors and infrastructure providers to deliver the hardware, software, networking, storage, and related services that power our products. A full list of these providers is available on our [subprocessors page](https://actuallyreliable.com/legal/subprocessors).
+5. We rely on third-party vendors and infrastructure providers to deliver the hardware, software, networking, storage, and related services that power our products. A full list of these providers is available on our [subprocessors page](https://www.actuallyreliable.com/legal/subprocessors).
 
-6. Under the California Consumer Privacy Act ("CCPA"), Actually Reliable LLC acts as a "service provider" — not a "business" or "third party" — with respect to data processed through our Services. We process data you share with us only for the purposes for which you enrolled and as described in these Terms, our [Privacy Policy](https://actuallyreliable.com/legal/privacy), and our [other policies](https://actuallyreliable.com/legal). We do not retain, use, disclose, or sell that data for any other commercial purpose without your explicit consent. You similarly agree to comply with your own CCPA obligations and not to use our Services in a manner that would cause us to violate those regulations.
+6. Under the California Consumer Privacy Act ("CCPA"), Actually Reliable LLC acts as a "service provider" — not a "business" or "third party" — with respect to data processed through our Services. We process data you share with us only for the purposes for which you enrolled and as described in these Terms, our [Privacy Policy](https://www.actuallyreliable.com/legal/privacy), and our [other policies](https://www.actuallyreliable.com/legal). We do not retain, use, disclose, or sell that data for any other commercial purpose without your explicit consent. You similarly agree to comply with your own CCPA obligations and not to use our Services in a manner that would cause us to violate those regulations.
 
-7. These Terms incorporate our [Data Processing Addendum ("DPA")](https://actuallyreliable.com/legal/dpa) when the EU General Data Protection Regulation ("GDPR") or United Kingdom General Data Protection Regulation ("UK GDPR") applies to your use of our Services in connection with Customer Data as defined in the DPA. The DPA supersedes any previously executed data processing addendum between you and Actually Reliable LLC.
+7. These Terms incorporate our [Data Processing Addendum ("DPA")](https://www.actuallyreliable.com/legal/dpa) when the EU General Data Protection Regulation ("GDPR") or United Kingdom General Data Protection Regulation ("UK GDPR") applies to your use of our Services in connection with Customer Data as defined in the DPA. The DPA supersedes any previously executed data processing addendum between you and Actually Reliable LLC.
 
 ## Copyright and Content Ownership
 
@@ -175,7 +175,7 @@ All content submitted to our Services must comply with applicable U.S. copyright
    - A statement that you have a good faith belief the use is not authorized by the copyright owner, its agent, or the law
    - A statement, made under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner
 
-   Submit notices to our [copyright team](https://actuallyreliable.com/support).
+   Submit notices to our [copyright team](https://www.actuallyreliable.com/support).
 
    **Counter-Notifications.** If you believe content was removed from our Services in error, you may submit a DMCA counter-notification including:
 
@@ -186,13 +186,13 @@ All content submitted to our Services must comply with applicable U.S. copyright
    - A statement, made under penalty of perjury, that you have a good faith belief the material was removed by mistake or misidentification
    - A statement that you consent to the jurisdiction of the federal or state courts in Ohio
 
-   Submit counter-notices to our [copyright team](https://actuallyreliable.com/support).
+   Submit counter-notices to our [copyright team](https://www.actuallyreliable.com/support).
 
 2. By submitting content to our Services, you grant the Company a limited license to use that content solely for the purpose of providing the Services to you. We assert no ownership claim over your materials. Everything you submit remains yours.
 
 3. We do not review content before it is posted, but we reserve the right — without obligation — to remove or refuse any content available through our Services at our sole discretion.
 
-4. The Company and its licensors hold all rights, title, and interest in the Services, including all intellectual property rights. Your use of the Services grants you no ownership interest in them. Reproducing, copying, or reusing any portion of the HTML, CSS, JavaScript, or visual design of our Services requires our express written permission. Use of Company or product logos for promotional purposes likewise requires prior written authorization — please [contact our support team](https://actuallyreliable.com/support) to request it. We may revoke any granted permissions if these Terms are violated.
+4. The Company and its licensors hold all rights, title, and interest in the Services, including all intellectual property rights. Your use of the Services grants you no ownership interest in them. Reproducing, copying, or reusing any portion of the HTML, CSS, JavaScript, or visual design of our Services requires our express written permission. Use of Company or product logos for promotional purposes likewise requires prior written authorization — please [contact our support team](https://www.actuallyreliable.com/support) to request it. We may revoke any granted permissions if these Terms are violated.
 
 5. You agree not to reproduce, copy, resell, or otherwise exploit any portion of the Services — including access to or use of the Services — without our express written consent.
 
@@ -235,7 +235,7 @@ The procedures described in this section apply independently of any other notice
 
 ### Informal Resolution
 
-We prefer to resolve disputes without formal proceedings. If you have a concern, please [contact our support team](https://actuallyreliable.com/support) first. We will make a genuine effort to address your issue promptly and fairly.
+We prefer to resolve disputes without formal proceedings. If you have a concern, please [contact our support team](https://www.actuallyreliable.com/support) first. We will make a genuine effort to address your issue promptly and fairly.
 
 ### Binding Arbitration
 
@@ -255,6 +255,6 @@ Each party is responsible for its own legal costs and attorneys' fees in any arb
 
 ---
 
-If you have any questions about these Terms, please [contact our legal team](https://actuallyreliable.com/support).
+If you have any questions about these Terms, please [contact our legal team](https://www.actuallyreliable.com/support).
 
 Thank you for using Actually Reliable LLC's Services.

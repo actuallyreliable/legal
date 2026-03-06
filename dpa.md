@@ -26,7 +26,7 @@ This DPA sets out the parties' agreement concerning the Processing of Personal D
 
 **"Controller"** means the entity which determines the purposes and means of the Processing of Personal Data, and includes "business" as defined in the CCPA.
 
-**"Customer Data"** means what is described in the Actually Reliable Privacy Policy, available at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy), as "your data", "your information" or similar terms.
+**"Customer Data"** means what is described in the Actually Reliable Privacy Policy, available at [actuallyreliable.com/legal/privacy](https://www.actuallyreliable.com/legal/privacy), as "your data", "your information" or similar terms.
 
 **"Data Protection Laws and Regulations"** means all laws and regulations applicable to the Processing of Personal Data under the Agreement, including, to the extent applicable, laws and regulations of the European Union, the European Economic Area and their member states, Switzerland and the United Kingdom including the General Data Protection Regulation, Regulation (EU) 2016/679 ("**GDPR**"); the Swiss Federal Act on Data Protection ("**FADP**"); the United Kingdom Data Protection Act of 2018 ("**UK GDPR**"); and the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq. and associated regulations and amendments, including, when effective, the California Privacy Rights Act amendments ("**CCPA**") and the privacy laws of other U.S. states (collectively, "**U.S. Privacy Laws**").
 
@@ -40,7 +40,7 @@ This DPA sets out the parties' agreement concerning the Processing of Personal D
 
 **"Processor"** means the entity that Processes Personal Data on behalf of the Controller and includes a "service provider" as defined under the CCPA.
 
-**"Security, Privacy and Architecture Documentation"** means Actually Reliable's security overview and related documentation, as updated from time to time and accessible at [actuallyreliable.com/legal/security](https://actuallyreliable.com/legal/security); Actually Reliable's Privacy Policy, as updated from time to time and accessible at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy); and any other relevant documentation made reasonably available by Actually Reliable.
+**"Security, Privacy and Architecture Documentation"** means Actually Reliable's security overview and related documentation, as updated from time to time and accessible at [actuallyreliable.com/legal/security](https://www.actuallyreliable.com/legal/security); Actually Reliable's Privacy Policy, as updated from time to time and accessible at [actuallyreliable.com/legal/privacy](https://www.actuallyreliable.com/legal/privacy); and any other relevant documentation made reasonably available by Actually Reliable.
 
 **"Standard Contractual Clauses"** means the contractual clauses annexed to the European Commission's Implementing Decision 2021/914 of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council, located at [data.europa.eu/eli/dec_impl/2021/914/oj](https://data.europa.eu/eli/dec_impl/2021/914/oj), and completed as set forth in Section 11 below.
 
@@ -101,7 +101,7 @@ Actually Reliable shall, to the extent legally permitted, promptly notify Custom
 
 4.3. **Limitation of Access.** Access to Personal Data is restricted to personnel whose roles require it for the purpose of delivering the Services under the Agreement.
 
-4.4. **Questions.** For questions about this DPA or any privacy-related matter, please [contact our privacy team](https://actuallyreliable.com/support).
+4.4. **Questions.** For questions about this DPA or any privacy-related matter, please [contact our privacy team](https://www.actuallyreliable.com/support).
 
 ---
 
@@ -109,7 +109,7 @@ Actually Reliable shall, to the extent legally permitted, promptly notify Custom
 
 5.1. **Appointment of Subprocessors.** Customer acknowledges and agrees that Actually Reliable may engage third-party Subprocessors in connection with the provision of the Services. Actually Reliable has entered into a written agreement with each Subprocessor containing data protection obligations not less protective than those in this DPA with respect to the protection of Personal Data, to the extent applicable to the nature of the Services provided by such Subprocessor.
 
-5.2. **List of Current Subprocessors and Notification of New Subprocessors.** Actually Reliable shall make available to Customer the current list of Subprocessors for the Actually Reliable Services on Actually Reliable's website at [actuallyreliable.com/legal/subprocessors](https://actuallyreliable.com/legal/subprocessors). Actually Reliable shall provide notification to the Customer of a new Subprocessor(s) before authorizing any new Subprocessor(s) to Process Personal Data in connection with the provision of the applicable Services.
+5.2. **List of Current Subprocessors and Notification of New Subprocessors.** Actually Reliable shall make available to Customer the current list of Subprocessors for the Actually Reliable Services on Actually Reliable's website at [actuallyreliable.com/legal/subprocessors](https://www.actuallyreliable.com/legal/subprocessors). Actually Reliable shall provide notification to the Customer of a new Subprocessor(s) before authorizing any new Subprocessor(s) to Process Personal Data in connection with the provision of the applicable Services.
 
 5.3. **Objection Right for New Subprocessors.** Customer may object to Actually Reliable's use of a new Subprocessor by notifying Actually Reliable promptly in writing within ten (10) business days after receipt of Actually Reliable's notice of a new Subprocessor in accordance with Section 5.2. In the event Customer objects to a new Subprocessor, Actually Reliable may, at its option, use reasonable efforts to make available to Customer a change in the Services or recommend a commercially reasonable change to Customer's configuration or use of the Services to avoid Processing of Personal Data by the new Subprocessor without unreasonably burdening the Customer. If Actually Reliable is unable to make available such change within a reasonable period of time, which shall not exceed thirty (30) days, Customer may terminate with written notice to Actually Reliable the applicable Agreement solely with respect to Services that cannot be provided by Actually Reliable without use of the new Subprocessor. As of the effective date of termination, Actually Reliable will refund Customer any prepaid fees such terminated Services covering the remainder of the term and will not penalize Customer for such termination.
 
@@ -199,7 +199,7 @@ To the extent permitted under applicable Data Protection Laws and Regulations, e
 
 ### 12. DPA EXECUTION
 
-This DPA is incorporated into and forms part of the Agreement by reference. By entering into the Agreement, Customer agrees to the terms of this DPA. A separately executed DPA is available upon request by [contacting our privacy team](https://actuallyreliable.com/support).
+This DPA is incorporated into and forms part of the Agreement by reference. By entering into the Agreement, Customer agrees to the terms of this DPA. A separately executed DPA is available upon request by [contacting our privacy team](https://www.actuallyreliable.com/support).
 
 ---
 
@@ -229,7 +229,7 @@ Name: Actually Reliable LLC
 
 Address: 6545 Market Ave. North, Suite 100, North Canton, Ohio 44721, USA
 
-Contact person's name, position and contact details: CEO, [contact our privacy team](https://actuallyreliable.com/support)
+Contact person's name, position and contact details: CEO, [contact our privacy team](https://www.actuallyreliable.com/support)
 
 Activities relevant to the data transferred under these Clauses: Actually Reliable is a cloud-based software-as-a-service provider of email, help desk, and DNS software which Processes Personal Data upon the instruction of the data exporter in accordance with the terms of the agreement between the data exporter and Actually Reliable.
 
@@ -254,7 +254,7 @@ Data exporter and/or data subjects (as directed by data exporter) may submit per
 
 **Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.**
 
-Data exporter and/or data subjects (as directed by data exporter) may submit Sensitive Data to the Services, the type, extent and detail of which is determined and controlled by the data exporter and/or the data subject in its sole discretion. Actually Reliable takes the security and privacy of data very seriously. The restrictions and safeguards that apply to all Personal Data, including any Sensitive Data, can be found in Actually Reliable's Privacy Policy, accessible at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy), and security documentation, accessible at [actuallyreliable.com/legal/security](https://actuallyreliable.com/legal/security).
+Data exporter and/or data subjects (as directed by data exporter) may submit Sensitive Data to the Services, the type, extent and detail of which is determined and controlled by the data exporter and/or the data subject in its sole discretion. Actually Reliable takes the security and privacy of data very seriously. The restrictions and safeguards that apply to all Personal Data, including any Sensitive Data, can be found in Actually Reliable's Privacy Policy, accessible at [actuallyreliable.com/legal/privacy](https://www.actuallyreliable.com/legal/privacy), and security documentation, accessible at [actuallyreliable.com/legal/security](https://www.actuallyreliable.com/legal/security).
 
 **The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis).**
 
@@ -274,7 +274,7 @@ Subject to any other terms allowing or requiring longer retention, and subject t
 
 **For transfers to (sub-)processors, also specify subject matter, nature and duration of the processing**
 
-Actually Reliable transfers Personal Data to Subprocessors as listed at [actuallyreliable.com/legal/subprocessors](https://actuallyreliable.com/legal/subprocessors).
+Actually Reliable transfers Personal Data to Subprocessors as listed at [actuallyreliable.com/legal/subprocessors](https://www.actuallyreliable.com/legal/subprocessors).
 
 #### C. COMPETENT SUPERVISORY AUTHORITY
 
@@ -286,6 +286,6 @@ The competent supervisory authority will be determined in accordance with the GD
 
 ### ANNEX II — TECHNICAL AND ORGANISATIONAL MEASURES INCLUDING TECHNICAL AND ORGANISATIONAL MEASURES TO ENSURE THE SECURITY OF THE DATA
 
-The technical and organisational measures Actually Reliable applies to ensure an appropriate level of security — taking into account the nature, scope, context and purpose of the processing, and the risks to the rights and freedoms of natural persons — are described in Actually Reliable's Privacy Policy, accessible at [actuallyreliable.com/legal/privacy](https://actuallyreliable.com/legal/privacy), and security documentation, accessible at [actuallyreliable.com/legal/security](https://actuallyreliable.com/legal/security).
+The technical and organisational measures Actually Reliable applies to ensure an appropriate level of security — taking into account the nature, scope, context and purpose of the processing, and the risks to the rights and freedoms of natural persons — are described in Actually Reliable's Privacy Policy, accessible at [actuallyreliable.com/legal/privacy](https://www.actuallyreliable.com/legal/privacy), and security documentation, accessible at [actuallyreliable.com/legal/security](https://www.actuallyreliable.com/legal/security).
 
-Actually Reliable requires all Subprocessors that handle Personal Data to enter into data processing agreements obligating them to maintain protections that are equivalent to, or stricter than, those required of Actually Reliable under this DPA. A current list of our Subprocessors is available at [actuallyreliable.com/legal/subprocessors](https://actuallyreliable.com/legal/subprocessors).
+Actually Reliable requires all Subprocessors that handle Personal Data to enter into data processing agreements obligating them to maintain protections that are equivalent to, or stricter than, those required of Actually Reliable under this DPA. A current list of our Subprocessors is available at [actuallyreliable.com/legal/subprocessors](https://www.actuallyreliable.com/legal/subprocessors).

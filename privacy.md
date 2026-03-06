@@ -88,7 +88,7 @@ Some of our products have optional desktop and mobile apps. These apps may reque
 
 ## When we access or disclose your information
 
-**To deliver the Services you've requested.** We work with third-party subprocessors to operate our infrastructure and deliver our products. Our complete [subprocessor list](https://actuallyreliable.com/legal/subprocessors) identifies every vendor we use and their purpose.
+**To deliver the Services you've requested.** We work with third-party subprocessors to operate our infrastructure and deliver our products. Our complete [subprocessor list](https://www.actuallyreliable.com/legal/subprocessors) identifies every vendor we use and their purpose.
 
 We may disclose your information to a third-party service if you choose to connect that service to your Actually Reliable Account.
 
@@ -104,7 +104,7 @@ No Actually Reliable employee reads your content except in narrow, specific circ
 
 **When required under applicable law.** Actually Reliable LLC is a U.S. company with infrastructure based in the United States.
 
-- *Law enforcement requests:* We will not disclose your data to law enforcement without a valid court order. Requests that arrive without one are refused. Unless legally prohibited, we will notify you when we receive such a request. See our [Security Overview](https://actuallyreliable.com/legal/security) for more.
+- *Law enforcement requests:* We will not disclose your data to law enforcement without a valid court order. Requests that arrive without one are refused. Unless legally prohibited, we will notify you when we receive such a request. See our [Security Overview](https://www.actuallyreliable.com/legal/security) for more.
 - *Data preservation requests:* We comply with preservation requests only when compelled by the U.S. Federal Stored Communications Act (18 U.S.C. § 2703(f)) or a properly issued U.S. civil subpoena. Preserved data is not disclosed unless we are required to do so by law or a court order we have chosen not to appeal. If a warrant, order, or subpoena does not arrive before the preservation period expires, we will destroy any preserved copies at that time.
 - *Tax audits:* If we are audited by a tax authority, we will disclose only the minimum billing information necessary — such as billing addresses and applicable tax exemption documentation.
 
@@ -137,7 +137,7 @@ Where applicable law provides a right of appeal, we will include instructions fo
 
 ## How we secure your data
 
-Full details on our security practices — including encryption standards, infrastructure architecture, and monitoring — are available in our [Security Overview](https://actuallyreliable.com/legal/security).
+Full details on our security practices — including encryption standards, infrastructure architecture, and monitoring — are available in our [Security Overview](https://www.actuallyreliable.com/legal/security).
 
 **Breach notification.** If a security incident affects your personal information, we will notify you within 72 hours of becoming aware of it, as required by applicable data protection law.
 
@@ -163,13 +163,13 @@ When an Account is cancelled or deleted, your content becomes immediately inacce
 
 ## Location of site and data
 
-Our Services and infrastructure are primarily hosted in the United States. If you are located in the European Union, United Kingdom, or elsewhere outside the United States, information you provide to us will be transferred to and stored in the U.S. For details on our infrastructure and data center arrangements, see our [Security Overview](https://actuallyreliable.com/legal/security).
+Our Services and infrastructure are primarily hosted in the United States. If you are located in the European Union, United Kingdom, or elsewhere outside the United States, information you provide to us will be transferred to and stored in the U.S. For details on our infrastructure and data center arrangements, see our [Security Overview](https://www.actuallyreliable.com/legal/security).
 
 ---
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board has established that personal data transferred out of the EU must receive the same level of protection afforded under EU law. The United Kingdom applies equivalent requirements to outbound transfers of UK resident data. To meet these obligations, Actually Reliable has adopted Standard Contractual Clauses as part of our Data Processing Addendum, available at [actuallyreliable.com/legal/dpa](https://actuallyreliable.com/legal/dpa).
+The European Data Protection Board has established that personal data transferred out of the EU must receive the same level of protection afforded under EU law. The United Kingdom applies equivalent requirements to outbound transfers of UK resident data. To meet these obligations, Actually Reliable has adopted Standard Contractual Clauses as part of our Data Processing Addendum, available at [actuallyreliable.com/legal/dpa](https://www.actuallyreliable.com/legal/dpa).
 
 In limited circumstances, EU personal data may be transferred to the U.S. incidentally — for example, when an EU user subscribes to our newsletter or completes a survey. These are occasional, non-repetitive transfers made under the Article 49(1)(b) derogation of the GDPR and the equivalent provision under UK law.
 
@@ -209,9 +209,9 @@ California's "Shine the Light" law permits California residents to request infor
 
 We may revise this policy from time to time to reflect changes in our practices or applicable law. For significant changes, we will update the date at the top of this page and notify customers by email.
 
-Disputes arising from this Privacy Policy or our data practices are subject to the Dispute Resolution provisions in our [Terms of Service](https://actuallyreliable.com/legal/tos).
+Disputes arising from this Privacy Policy or our data practices are subject to the Dispute Resolution provisions in our [Terms of Service](https://www.actuallyreliable.com/legal/tos).
 
-Questions, concerns, or requests regarding this policy or your personal data can be submitted by [contacting our privacy team](https://actuallyreliable.com/support).
+Questions, concerns, or requests regarding this policy or your personal data can be submitted by [contacting our privacy team](https://www.actuallyreliable.com/support).
 
 ## Survival
 
