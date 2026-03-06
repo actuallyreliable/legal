@@ -22,7 +22,7 @@ Jump to a section:
 - [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
 - [Changes and questions](#changes-and-questions)
 
-This policy covers all products built and operated by Actually Reliable LLC: CohesiveMail, OrchestrateMail, GuidedHelpDesk, and ResoluteDNS (collectively, "Actually Reliable LLC", "Actually Reliable" or the "Services").
+This policy covers all products built and operated by Actually Reliable LLC: CohesiveMail, OrchestrateMail, GuidedHelpDesk, ResoluteDNS, and Tevlio (collectively, "Actually Reliable LLC", "Actually Reliable" or the "Services").
 
 **Who this policy covers.** This policy governs how we handle information belonging to website visitors, prospective customers, and existing customers and their authorized account users, as they relate to purchasing and managing their relationship with Actually Reliable. Throughout this policy, "you" refers to any of these individuals.
 

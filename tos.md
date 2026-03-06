@@ -16,7 +16,7 @@ These Terms may be revised at any time. For material revisions, we will update t
 
 "Company", "we", "our", or "us" refers to Actually Reliable LLC in all of our policies and terms.
 
-"Services" means the websites and software products created and operated by Actually Reliable LLC, including cohesivemail.com, orchestratemail.com, guidedhelpdesk.com, resolutedns.com, and actuallyreliable.com, and the products CohesiveMail, OrchestrateMail, GuidedHelpDesk, and ResoluteDNS, across all delivery formats including web, desktop, and mobile.
+"Services" means the websites and software products created and operated by Actually Reliable LLC, including cohesivemail.com, orchestratemail.com, guidedhelpdesk.com, resolutedns.com, tevlio.ch, and actuallyreliable.com, and the products CohesiveMail, OrchestrateMail, GuidedHelpDesk, ResoluteDNS, and Tevlio, across all delivery formats including web, desktop, and mobile.
 
 "You" or "your" means any individual or organization that holds an Actually Reliable LLC account.
 

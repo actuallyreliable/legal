@@ -231,7 +231,7 @@ Address: 6545 Market Ave. North, Suite 100, North Canton, Ohio 44721, USA
 
 Contact person's name, position and contact details: CEO, [dpa@actuallyreliable.com](mailto:dpa@actuallyreliable.com)
 
-Activities relevant to the data transferred under these Clauses: Actually Reliable is a cloud-based software-as-a-service provider of email and help desk software which Processes Personal Data upon the instruction of the data exporter in accordance with the terms of the agreement between the data exporter and Actually Reliable.
+Activities relevant to the data transferred under these Clauses: Actually Reliable is a cloud-based software-as-a-service provider of email, help desk, and DNS software which Processes Personal Data upon the instruction of the data exporter in accordance with the terms of the agreement between the data exporter and Actually Reliable.
 
 Signature and date: By processing the data exporter's data in accordance with the data exporter's instructions, the data importer will be deemed to have signed this Annex I
 
